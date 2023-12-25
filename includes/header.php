@@ -7,8 +7,6 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" >
-
-                    <img src="assets/img/logo.png" />
                     <img src="assets/img/L_Logo.png" />
 
                 </a>
