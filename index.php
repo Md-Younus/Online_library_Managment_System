@@ -72,7 +72,7 @@ echo "<script>alert('Invalid Details');</script>";
                             <img src="assets/img/1.jpg" alt="" />
                         </div>
                         <div class="item">
-                            <img src="assets/img/2.jpg" alt="" />
+                            <img src="assets/img/LMS.png" alt="" />
                         </div>
                         <div class="item">
                             <img src="assets/img/3.jpg" alt="" /> 
